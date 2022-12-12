@@ -1,0 +1,6 @@
+{
+  "item.examplemod.my_food": "my_food",
+  "block.examplemod.my_block": "my_block",
+  "itemGroup.examplemod": "Example mod",
+  "examplemod.effect.dragon_breath": "Dragon breath"
+}
